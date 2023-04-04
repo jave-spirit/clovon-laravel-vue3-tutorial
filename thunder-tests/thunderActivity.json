@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "bd1421da-4f6f-46b9-8b99-66a899c837fd",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8000/api/users",
+    "url": "http://127.0.0.1:8000/api/user",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-03-23T14:27:41.886Z",
+    "modified": "2023-03-23T16:12:49.953Z",
+    "headers": [
+      {
+        "name": "Accept",
+        "value": "application/json"
+      },
+      {
+        "name": "X-CSRF-TOKEN",
+        "value": "yGtCbwz1aqsixytegZGXn9cODJNmIyMZSfmgnGkC"
+      }
+    ],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [
+        {
+          "name": "name",
+          "value": "Bonie"
+        },
+        {
+          "name": "email",
+          "value": "awdawd@example.com"
+        },
+        {
+          "name": "password",
+          "value": "passdawdawd"
+        }
+      ]
+    },
+    "tests": []
+  }
+]

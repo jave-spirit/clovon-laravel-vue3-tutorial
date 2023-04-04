@@ -1,0 +1,36 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "devDependencies": {
+    "axios": "^1.1.2",
+    "laravel-vite-plugin": "^0.7.2",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "admin-lte": "3.2",
+    "flatpickr": "^4.6.13",
+    "jquery": "^3.6.4",
+    "laravel-vue-pagination": "^4.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "vee-validate": "^4.8.3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "yup": "^1.0.2"
+  },
+  "name": "informationsystem",
+  "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\" alt=\"Laravel Logo\"></a></p>",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
